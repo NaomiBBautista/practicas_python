@@ -1,5 +1,5 @@
 # turtle_square
-Con ayuda de la librería Turtle se busca demostrar cómo usar la biblioteca turtle.
+Esta práctica busca demostrar cómo usar la biblioteca turtle.
 
 ### **`turtle_square.py`**:
 El objetivo de la práctica es dibujar tres formas geométricas: un cuadrado, un triángulo y un pentágono. Cada forma se dibuja utilizando una función específica que traza los lados de la figura con un tamaño y ángulo determinados, para lograr esto es necesario implementar la definición de funciones específicas para cada forma y la repetición de comandos básicos de dibujo
